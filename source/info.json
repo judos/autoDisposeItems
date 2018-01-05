@@ -1,0 +1,10 @@
+{
+  "name": "autoDisposeItems",
+  "version": "0.0.1",
+  "title": "Auto Dispose Items",
+  "author": "judos",
+  "description": "For each logistics request sets a auto trash slot to the same amount of items. This means you will never have more items than requested.",
+	"homepage": "https://github.com/judos/autoDisposeItems",
+	"dependencies": ["base >= 0.16.0"],
+	"factorio_version": "0.16"
+}
