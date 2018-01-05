@@ -1,0 +1,1 @@
+mklink /j "mods/autoDisposeItems_0.0.1" "D:\modding\factorio\autoDisposeItems\source"
